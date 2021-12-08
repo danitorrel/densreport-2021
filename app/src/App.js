@@ -1,5 +1,6 @@
 
 /* import './App.css'; */
+import 'bootstrap/dist/css/bootstrap.min.css';
 import TableReport from './components/tableReport';
 
 function App() {
